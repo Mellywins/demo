@@ -1,14 +1,160 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+"timetable": [
+   {
+      "day":0,
+      "duration":90,
+      "grp":"GL2-2",
+      "id":1,
+      "isComposed":0,
+      "professor":"Trigui Elloumi Fatma",
+      "room":"217",
+      "startTime":480,
+      "subject":"Math Signal",
+      "type":"TD"
+   },
+   {
+      "day":1,
+      "duration":90,
+      "grp":"GL2-2",
+      "id":2,
+      "isComposed":0,
+      "professor":"Trigui Elloumi Fatma",
+      "room":"A9",
+      "startTime":480,
+      "subject":"Math Signal",
+      "type":"Cours"
+   },
+   {
+      "day":1,
+      "duration":90,
+      "grp":"GL2-2",
+      "id":3,
+      "isComposed":0,
+      "professor":"Trigui Elloumi Fatma",
+      "room":"A9",
+      "startTime":585,
+      "subject":"Proba et Stat",
+      "type":"Cours"
+   },
+   {
+      "day":3,
+      "duration":90,
+      "grp":"GL2-2",
+      "id":4,
+      "isComposed":0,
+      "professor":"Trigui Elloumi Fatma",
+      "room":"227",
+      "startTime":480,
+      "subject":"Proba et Stat",
+      "type":"TD"
+   },
+   {
+      "day":3,
+      "duration":90,
+      "grp":"GL2-2",
+      "id":5,
+      "isComposed":0,
+      "professor":"Baklouti Fatma",
+      "room":"227",
+      "startTime":585,
+      "subject":"Base de données",
+      "type":"TD"
+   },
+   {
+      "day":3,
+      "duration":90,
+      "grp":"GL2-2",
+      "id":6,
+      "isComposed":0,
+      "professor":"Baklouti Fatma",
+      "room":"227",
+      "startTime":690,
+      "subject":"Base de données",
+      "type":"Cours"
+   },
+   {
+      "day":3,
+      "duration":90,
+      "grp":"GL2-2",
+      "id":7,
+      "isComposed":0,
+      "professor":"Baklouti Fatma",
+      "room":"A9",
+      "startTime":840,
+      "subject":"I.S.I",
+      "type":"Cours"
+   },
+   {
+      "day":2,
+      "duration":90,
+      "grp":"GL2-2",
+      "id":8,
+      "isComposed":0,
+      "professor":"Sfaxi Lilia",
+      "room":"217",
+      "startTime":585,
+      "subject":"Systeme Exploitation",
+      "type":"TD"
+   },
+   {
+      "day":1,
+      "duration":90,
+      "grp":"GL2-2",
+      "id":9,
+      "isComposed":0,
+      "professor":"Sfaxi Lilia",
+      "room":"A2",
+      "startTime":840,
+      "subject":"Systeme Exploitation",
+      "type":"Cours"
+   },
+   {
+      "day":4,
+      "duration":90,
+      "grp":"GL2-2",
+      "id":10,
+      "isComposed":0,
+      "professor":"Hamdi Sana",
+      "room":"221",
+      "startTime":585,
+      "subject":"P.O.O",
+      "type":"TD"
+   },
+   {
+      "day":4,
+      "duration":90,
+      "grp":"GL2-2",
+      "id":11,
+      "isComposed":0,
+      "professor":"Hamdi Sana",
+      "room":"A3",
+      "startTime":690,
+      "subject":"P.O.O",
+      "type":"Cours"
+   },
+   {
+      "day":2,
+      "duration":90,
+      "grp":"GL2-2",
+      "id":12,
+      "isComposed":0,
+      "professor":"Bichiou Imene",
+      "room":"217",
+      "startTime":690,
+      "subject":"Anglais",
+      "type":"TD"
+   },
+   {
+      "day":2,
+      "duration":90,
+      "grp":"GL2-2",
+      "id":13,
+      "isComposed":0,
+      "professor":"Jarraya Mouna",
+      "room":"217",
+      "startTime":480,
+      "subject":"I.S.I",
+      "type":"TD"
+   }
+]
 }
